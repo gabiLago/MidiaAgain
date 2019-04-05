@@ -13,7 +13,7 @@ class GoogleBooksAPIConsumerAlamofire: MediaItemAPIConsumable {
     
     func getLatestMediaItems(onSuccess success: @escaping ([MediaItemProvidable]) -> Void, failure: @escaping (Error?) -> Void) {
         
-        Alamofire.request(GoogleBooksAPIConstants.getAbsoluteURL(withQueryParams: ["Lord of the Rings"])).responseData { (response) in
+        Alamofire.request(GoogleBooksAPIConstants.getAbsoluteURL(withQueryParams: ["Scherlock Holmes"])).responseData { (response) in
             
             switch response.result {
             case .failure(let error):
