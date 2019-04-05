@@ -76,7 +76,7 @@ extension Book: Codable {
         
         let saleInfoContainer = try? container.nestedContainer(keyedBy: CodingKeys.self, forKey: .saleInfo)
         let listPriceContainer = try? saleInfoContainer?.nestedContainer(keyedBy: CodingKeys.self, forKey: .listPrice)
-        price = try listPriceContainer??.decodeIfPresent(Float.self, forKey: .price)
+        price = try listPriceContainer?.decodeIfPresent(Float.self, forKey: .price)
     }
     
     func encode(to encoder: Encoder) throws {
