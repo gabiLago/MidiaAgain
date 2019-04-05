@@ -1,0 +1,33 @@
+{
+    "resultCount": 1,
+    "results": [
+        {
+            "wrapperType": "track",
+            "kind": "feature-movie",
+            "trackId": 389302398,
+            "artistName": "Sofia Coppola",
+            "trackName": "Lost in Translation",
+            "trackCensoredName": "Lost in Translation",
+            "trackViewUrl": "https://itunes.apple.com/es/movie/lost-in-translation/id389302398?uo=4",
+            "previewUrl": "https://video-ssl.itunes.apple.com/itunes-assets/Video117/v4/01/37/b1/0137b152-caec-ab0b-34e4-5bd6fbb9e645/mzvf_6724372143125041566.640x476.h264lc.U.p.m4v",
+            "artworkUrl30": "https://is3-ssl.mzstatic.com/image/thumb/Video/v4/63/f4/a5/63f4a5f3-a9b7-a701-18c5-57799e6fcff3/source/30x30bb.jpg",
+            "artworkUrl60": "https://is3-ssl.mzstatic.com/image/thumb/Video/v4/63/f4/a5/63f4a5f3-a9b7-a701-18c5-57799e6fcff3/source/60x60bb.jpg",
+            "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Video/v4/63/f4/a5/63f4a5f3-a9b7-a701-18c5-57799e6fcff3/source/100x100bb.jpg",
+            "collectionPrice": 5.99,
+            "trackPrice": 5.99,
+            "trackRentalPrice": 3.99000,
+            "collectionHdPrice": 8.99000,
+            "trackHdPrice": 8.99000,
+            "trackHdRentalPrice": 3.99000,
+            "releaseDate": "2003-01-01T08:00:00Z",
+            "collectionExplicitness": "notExplicit",
+            "trackExplicitness": "notExplicit",
+            "trackTimeMillis": 6106452,
+            "country": "ESP",
+            "currency": "EUR",
+            "primaryGenreName": "Drama",
+            "contentAdvisoryRating": "12",
+            "longDescription": "Bob Harris (Bill Murray) y Charlotte (Scarlett Johansson) son dos norteamericanos que se encuentran en Tokio. Bob es una estrella de cine de mediana edad que ha venido a rodar un anuncio. Charlotte es una mujer joven que acompaña a todas partes a su marido (Giovanni Ribisi), un fanático del trabajo. Incapaces de dormir, los caminos de Bob y Charlotte se cruzan por casualidad y no tardará en nacer entre ellos una sorprendente amistad. Se aventuran juntos en la vida nocturna de Tokio, comparten inolvidables experiencias con los habitantes de la ciudad y terminan descubriendo una nueva manera de ver la vida."
+        }
+    ]
+}
